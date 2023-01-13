@@ -8,3 +8,8 @@
 
 
 /* Custom style below this comment line */
+
+.description {
+    font-size: 40px;
+    line-height: 1.25em;
+}

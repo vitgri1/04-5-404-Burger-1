@@ -4,4 +4,9 @@
     height: 900px;
     margin-top: calc(50vh - 450px);
     margin-left: calc(50% - 800px);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3%;
 }
