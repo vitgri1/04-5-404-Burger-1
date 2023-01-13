@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://vitgri1.github.io/04-5-Burger-1/
+Site published at: https://vitgri1.github.io/04-5-404-Burger-1/
 
 Design: [Burger](https://i.pinimg.com/originals/23/73/6e/23736e5af84855ef8458126d8775732b.jpg)
 
