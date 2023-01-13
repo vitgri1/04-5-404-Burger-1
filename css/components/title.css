@@ -1,8 +1,15 @@
 .title {
-    font-size: 400px;
+    font-size: 600px;
     color: #ED802D;
     line-height: 1em;
     font-weight: bold;
-    display: flex;
-    justify-content: center;
+    position: relative;
+    word-spacing: 0.45em;
+}
+
+.title  img {
+    height: 0.70em;
+    position: absolute;
+    top: 0.15em;
+    left: 0.37em;
 }
