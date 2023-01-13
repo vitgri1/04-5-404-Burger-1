@@ -12,4 +12,19 @@
     position: absolute;
     top: 0.15em;
     left: 0.37em;
+    animation-name: fade;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes fade {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
 }
