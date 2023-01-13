@@ -4,7 +4,55 @@
 /* 3rd-party */
 
 /* components */
-@import '../components/button.css';
+@import '../components/title.css';
 
 
 /* Custom style below this comment line */
+
+.description {
+    font-size: 40px;
+    line-height: 1.25em;
+}
+
+@media (max-width: 1600px) {
+    .title {
+        font-size: 450px;
+    }
+    .description {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .title {
+        font-size: 300px;
+    }
+    .description {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 800px) {
+    .title {
+        font-size: 225px;
+    }
+    .description {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 600px) {
+    .title {
+        font-size: 150px;
+    }
+    .description {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 400px) {
+    div,
+    p {
+        display: none;
+    }
+}
