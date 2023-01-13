@@ -1,0 +1,8 @@
+.title {
+    font-size: 400px;
+    color: #ED802D;
+    line-height: 1em;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
