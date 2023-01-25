@@ -5,6 +5,7 @@
     font-weight: bold;
     position: relative;
     word-spacing: 0.45em;
+    user-select: none;
 }
 
 .title  img {
@@ -15,6 +16,7 @@
     animation-name: fade;
     animation-duration: 4s;
     animation-iteration-count: infinite;
+    animation-timing-function: linear;
 }
 
 @keyframes fade {
